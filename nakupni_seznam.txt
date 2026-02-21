@@ -1,0 +1,3 @@
+[dim][s]✅ A[/s][/dim]
+● B
+[dim][s]✅ C[/s][/dim]
